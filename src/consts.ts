@@ -2,9 +2,9 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "AstroVerse";
-export const SITE_TITLE = "AstroVerse";
-export const SITE_DESCRIPTION = "An Astro Theme for Visual Storytelling";
+export const BRAND_NAME = "Abhishek Vasu";
+export const SITE_TITLE = "Abhishek Vasu";
+export const SITE_DESCRIPTION = "Personal blog";
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "AstroVerse - All Tags";
@@ -29,9 +29,9 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "One" },
-  { href: "/category/Two/1/", title: "Two" },
-  { href: "/category/Three/1/", title: "Three" },
+  { href: "/category/One/1/", title: "Football" },
+  { href: "/category/Two/1/", title: "Travel" },
+  { href: "/category/Three/1/", title: "Misc" },
 ];
 
 // Footer Links, src/components/Footer.astro
@@ -43,7 +43,7 @@ export const FooterLinks = [
 
 // Social Links, src/components/Footer.astro
 export const SocialLinks = [
-  { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
+  // { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
     href: "https://twitter.com/inotelab",
     icon: "tabler:brand-twitter",
