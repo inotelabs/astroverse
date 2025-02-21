@@ -31,13 +31,13 @@ export function getCategoryMetadata(category: string) {
 export const HeaderLinks = [
   { href: "/category/One/1/", title: "Football" },
   { href: "/category/Two/1/", title: "Travel" },
-  { href: "/category/Three/1/", title: "Misc" },
+  // { href: "/category/Three/1/", title: "Misc" },
 ];
 
 // Footer Links, src/components/Footer.astro
 export const FooterLinks = [
-  { href: "/posts/why-astro/", title: "Astro" },
-  { href: "/posts/tailwind-typography/", title: "Tailwind" },
+  // { href: "/posts/why-astro/", title: "Astro" },
+  // { href: "/posts/tailwind-typography/", title: "Tailwind" },
   { href: "/tags/", title: "Tags" },
 ];
 
@@ -45,12 +45,12 @@ export const FooterLinks = [
 export const SocialLinks = [
   // { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/inotelab",
+    href: "https://twitter.com/abhi__vasu",
     icon: "tabler:brand-twitter",
     label: "Twitter",
   },
   {
-    href: "https://github.com/inotelab",
+    href: "https://github.com/abhishekvasu94",
     icon: "tabler:brand-github",
     label: "GitHub",
   },

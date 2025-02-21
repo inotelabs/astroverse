@@ -52,4 +52,4 @@ Bayer Leverkusen's stats were pretty much the opposite of Arsenal's. The bulk of
 
 ## Conclusion
 
-What Leverkusen and Arsenal did were both incredible achievements, and a sign of what it takes to succeed in different eras. The early 2000s was a more pragmatic time, with star players capable of carrying their teams. However today, football is more collaborative, and there is no room for passengers.
+What Leverkusen and Arsenal did were both incredible achievements, and a sign of what it takes to succeed in different eras. The early 2000s was a more pragmatic time, with star players capable of carrying their teams. However today, football is more collaborative, and high intensity.
